@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+.env
+venv/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
