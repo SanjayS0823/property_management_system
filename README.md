@@ -2,7 +2,7 @@
 
 A production-quality MVP for managing rental properties, tenants, leases, payments, and maintenance requests.
 
-![Architecture](docs/architecture.svg)
+![Architecture](docs/architecture_01.png)
 
 ---
 
